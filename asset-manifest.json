@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.e920fd83.css",
+    "main.js": "/Calculator/static/js/main.1476702f.js",
+    "static/media/casio.png": "/Calculator/static/media/casio.5f0e9a02608c10421eb5.png",
+    "index.html": "/Calculator/index.html",
+    "main.e920fd83.css.map": "/Calculator/static/css/main.e920fd83.css.map",
+    "main.1476702f.js.map": "/Calculator/static/js/main.1476702f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e920fd83.css",
+    "static/js/main.1476702f.js"
+  ]
+}
